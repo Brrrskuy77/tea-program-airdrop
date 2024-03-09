@@ -1,0 +1,32 @@
+{
+  "name": "tea-program-airdrop",
+  "version": "1.0.0",
+  "description": "Testnet for all user tea and binance labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tea and binance labs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/tea-program-airdrop.git"
+  },
+  "keywords": [
+    "Tea",
+    "and",
+    "Binance",
+    "Labs"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/tea-program-airdrop/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/tea-program-airdrop#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
